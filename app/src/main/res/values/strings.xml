@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">FormularioContacto</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="lbl_NombreApellido">Nombre y Apellido</string>
+    <string name="lbl_fnacimiento">Fecha de Nacimiento</string>
+    <string name="lbl_telefono">Ingrese Teléfono</string>
+    <string name="lbl_email">Ingrese E-mail</string>
+    <string name="lbl_descripcion">Descripción</string>
+    <string name="lbl_nombre">Ingrese Nombre y Apellido</string>
+    <string name="btn_siguiente">Siguiente</string>
+    <string name="lbl_confirmacion">Confirmar Datos</string>
+    <string name="telefono">Teléfono</string>
+    <string name="email">E-mail</string>
+    <string name="edt_datos">Editar Datos</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+</resources>
